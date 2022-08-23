@@ -70,7 +70,7 @@ fs.writeFile('main.html', `<img src="https://github.com/lillupad/hyssop.js/blob/
 <h1>welcome to hyssop!</h1>
 to get started, edit <code>main.html</code> in your <span title="vscode is the best">favourite text editor</span><br>
 or...<br>
-<a href="https://hyssop.readthedocs.org">read the docs</a>
+<a href="https://hyssopjs.readthedocs.org" h-ignore="true">read the docs</a>
 `, (e) => {
     if (e) console.log(e);
 })
