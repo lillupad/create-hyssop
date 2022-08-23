@@ -1,0 +1,29 @@
+{
+  "name": "create-hyssop",
+  "version": "0.1.0",
+  "description": "A tool for generating hyssop.js-based sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lillupad/create-hyssop.git"
+  },
+  "keywords": [
+    "hyssop.js",
+    "javascript",
+    "node"
+  ],
+  "author": "lillupad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lillupad/create-hyssop/issues"
+  },
+  "homepage": "https://github.com/lillupad/create-hyssop#readme",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "inquirer": "^9.1.0"
+  }
+}
